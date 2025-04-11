@@ -11,7 +11,7 @@ Para obter mais informações sobre como os arquivos `.gitignore` funcionam e co
 
 ## Sistemas
 - [x] [Fluig](https://github.com/brunotda/totvs-gitignore/blob/main/Fluig.gitignore)
-- [ ] Protheus
+- [x] Protheus
 - [ ] RM
 
 ## Colaboração
