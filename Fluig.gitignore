@@ -1,11 +1,11 @@
+# Ignore VScode files
+.vscode/*
+
 # Ignore fluig files
 /target/
 /.metadata/
 /workflow/.resources/
 *.metadata
-
-# Ignore Vscode files
-/.vscode/
 
 # Ignore Eclipse files
 .settings
@@ -13,10 +13,8 @@
 
 ### Plus Ignore ###
 
-# Ignore node_modules
+# Dependencies
 /node_modules/
-
-# Ignore precompiled css packs
 *.css.map
 *.sass.map
 *.scss.map
@@ -25,3 +23,7 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# System files
+.DS_Store
+Thumbs.db
