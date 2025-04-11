@@ -1,0 +1,22 @@
+# Ignore VScode files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Ignore TOTVS Protheus files
+*.rpo
+*.RPO
+*.ch
+*.CH
+*.unq
+tdsSupport.zip
+
+# Dependencies
+node_modules
+
+# System files
+.DS_Store
+Thumbs.db
