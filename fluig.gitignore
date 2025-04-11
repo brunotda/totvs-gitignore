@@ -1,0 +1,27 @@
+# Ignore fluig files
+/target/
+/.metadata/
+/workflow/.resources/
+*.metadata
+
+# Ignore Vscode files
+/.vscode/
+
+# Ignore Eclipse files
+.settings
+.project
+
+### Plus Ignore ###
+
+# Ignore node_modules
+/node_modules/
+
+# Ignore precompiled css packs
+*.css.map
+*.sass.map
+*.scss.map
+
+# Ignore yarn files
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
